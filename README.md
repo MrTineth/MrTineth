@@ -2,7 +2,7 @@
 <h1 align="center">MrTineth</h1>
 <h3 align="center">Full stack dev from Sri Lanka</h3>
 
-- 🔭 Undergraduate **Software Engineer**
+- 👨‍🎓 Undergraduate **Software Engineer**
 
 - 🌱 I’m currently Studies at **Open University of Sri Lanka Faculty of Software Enginnering**
 
