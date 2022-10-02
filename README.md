@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://travelinlanka1.blogspot.com/](https://travelinlanka1.blogspot.com/)
 
-- 💬 Ask me about **React | Vue-Js | Python | PHP | Java**
+- 💬 Ask me about **Web Development Languages**
 
 - 📫 How to reach me **tinethvihanga1999@gmail.com**
 
