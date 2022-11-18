@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tineth Vihanga</h1>
-<h3 align="center">Full stack dev from Sri Lanka</h3>
+<h3 align="center">Full stack Web dev from Sri Lanka</h3>
 
 - 👦  **MrTineth**
 
