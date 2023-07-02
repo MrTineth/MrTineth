@@ -13,11 +13,11 @@
 
 - 👨‍💻 This is my first project [http://travelpoints.000webhostapp.com/](http://travelpoints.000webhostapp.com/)
 
-- 📝 I regularly write articles on [https://travelinlanka1.blogspot.com/](https://travelinlanka1.blogspot.com/)
+- 📝 I regularly write articles on [https://travelinlanka1.blogspot.com/](https://travelpointslanka.blogspot.com/)
 
 - 💬 Ask me about **Web Development Languages**
 
-- 📫 How to reach me **tinethvihanga1999@gmail.com**
+- 📫 How to reach me **tinethpathirage@gmail.com**
 
 - ⚡ Fun fact **I play with Codes**
 
