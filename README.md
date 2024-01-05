@@ -3,6 +3,8 @@
 
 
 - 👨‍💼  MrTineth
+
+- 🎓 Undergraduate Software Engineer
   
 - 💻 I’m currently Studies at **Open University of Sri Lanka Faculty of Software Enginnering**
 
