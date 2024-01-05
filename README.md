@@ -10,7 +10,7 @@
 
 - 👨‍💼📈 Connect with [RORA Gloabl (Pvt) Ltd.](https://www.rora.lk/)
 
-- - 👨‍💼📈 Connect with [Dream Design Solutions.](https://www.dreamdesign.lk/)
+- 👨‍💼📈 Connect with [Dream Design Solutions.](https://www.dreamdesign.lk/)
 
 - 👨‍💻 All of my projects are available at [https://www.tinethpathirage.com/](https://www.tinethpathirage.com/)
 
