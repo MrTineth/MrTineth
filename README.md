@@ -4,13 +4,13 @@
 
 - 👨‍💼 MrTineth
   
-- 🔭 I’m currently Studies at **Open University of Sri Lanka Faculty of Software Enginnering**
+- 💻 I’m currently Studies at **Open University of Sri Lanka Faculty of Software Enginnering**
 
 - 👨🏻‍💻 I’m currently Learning **Software Engineering**
 
-- 👨‍💼📈 Connect with [RORA Gloabl (Pvt) Ltd.](https://www.rora.lk/)
+- 🌎 Connect with [RORA Gloabl (Pvt) Ltd.](https://www.rora.lk/)
 
-- 👨‍💼📈 Connect with [Dream Design Solutions.](https://www.dreamdesign.lk/)
+- 🌐 Connect with [Dream Design Solutions.](https://www.dreamdesign.lk/)
 
 - 👨‍💻 All of my projects are available at [https://www.tinethpathirage.com/](https://www.tinethpathirage.com/)
 
