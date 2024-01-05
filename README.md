@@ -2,7 +2,7 @@
 <h3 align="center">Full stack dev from Sri Lanka</h3>
 
 
-- 👨‍💼 MrTineth
+- 👨‍💼  MrTineth
   
 - 💻 I’m currently Studies at **Open University of Sri Lanka Faculty of Software Enginnering**
 
