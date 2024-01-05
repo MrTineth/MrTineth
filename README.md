@@ -9,11 +9,9 @@
 
 - 🤝 I’m currently Learning **Software Engineering**
 
-- 👨‍💼📈 Connect with RORA Gloabl (Pvt) Ltd [https://www.rora.lk/](https://www.rora.lk/)
+- 👨‍💼📈 Connect with RORA Gloabl (Pvt) Ltd.  [https://www.rora.lk/](https://www.rora.lk/)
 
-- 👨‍💼📈 Connect with Dream Design Solutions [https://www.dreamdesign.lk/](https://www.dreamdesign.lk/)
-
-- 👨‍💻 This is my first project [http://travelpoints.000webhostapp.com/](http://travelpoints.000webhostapp.com/)
+- 👨‍💼📈 Connect with Dream Design Solutions.  [https://www.dreamdesign.lk/](https://www.dreamdesign.lk/)
 
 - 📝 I regularly write articles on [https://travelinlanka1.blogspot.com/](https://travelpointslanka.blogspot.com/)
 
