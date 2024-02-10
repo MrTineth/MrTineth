@@ -36,13 +36,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<br/>  
-
-
-
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -61,9 +55,6 @@
 </div>
 
 </td><td valign="top" width="50%">
-
-
-
 ### Backend  
 <div align="center">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
