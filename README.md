@@ -11,9 +11,7 @@
 
 - 👨🏻‍💻 I’m currently Learning **Software Engineering**
 
-- 🌎 Connect with [RORA Gloabl (Pvt) Ltd.](https://www.rora.lk/)
-
-- 🌐 Connect with [Dream Design Solutions.](https://www.dreamdesign.lk/)
+- 🌐 Connect with [RORA Gloabl](https://www.rora.lk/)
 
 - 👨‍💻 All of my projects are available at [https://www.tinethpathirage.com/](https://www.tinethpathirage.com/)
 
@@ -23,7 +21,7 @@
 
 - 📫 How to reach me **tinethpathirage@gmail.com**
 
-- 📄 Know about my experiences [https://www.dreamdesign.lk/](https://www.dreamdesign.lk/)
+- 📄 Know about my experiences [https://www.dreamdesign.lk/](https://www.rora.lk/)
 
 - ⚡ Fun fact **I play with Codes**
 
