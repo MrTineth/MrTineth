@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **tinethpathirage@gmail.com**
 
-- 📄 Know about my experiences [https://www.dreamdesign.lk/](https://www.rora.lk/)
+- 📄 Know about my experiences [https://www.rora.lk/](https://www.rora.lk/)
 
 - ⚡ Fun fact **I play with Codes**
 
