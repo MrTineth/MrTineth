@@ -1,3 +1,9 @@
+<style>
+    p img {
+        margin-right: 5px;
+    }
+</style>
+
 <h1 align="center">Space Developer 🚀</h1>
 <h3 align="center">Welcome to Code Space</h3>
 
