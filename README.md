@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/tineth pathirage" target="blank"><img src="https://img.shields.io/twitter/follow/tineth pathirage?logo=twitter&style=for-the-badge" alt="tineth pathirage" /></a> </p>
 
-- 💻 Experienced in **developing end-to-end web applications, from front-end UI/UX design to back-end server-side logic.**
+💻 Experienced in **developing end-to-end web applications, from front-end UI/UX design to back-end server-side logic.**
 
-- 🎓 Passionate in **about continuous learning and staying abreast of the latest advancements in technology to deliver innovative solutions.**
+🎓 Passionate in **about continuous learning and staying abreast of the latest advancements in technology to deliver innovative solutions.**
 
-- 🔗 Proficient in **web3 & blockchain development, including smart contract development, decentralized application (dApp) development, and blockchain integration into existing systems.**
+🔗 Proficient in **web3 & blockchain development, including smart contract development, decentralized application (dApp) development, and blockchain integration into existing systems.**
 
-- 🌐 Skilled in **a variety of programming languages and technologies such as JavaScript, TypeScript, React.js, Node.js, Next.js, and Laravel.**
+🌐 Skilled in **a variety of programming languages and technologies such as JavaScript, TypeScript, React.js, Node.js, Next.js, and Laravel.**
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
