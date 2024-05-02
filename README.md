@@ -1,6 +1,5 @@
-<h1 align="center">Space Developer 🚀</h1>
-<h3 align="center">Welcome to Code Space</h3>
-
+<h1 align="center">Welcome to Code Space</h1>
+<h2 align="center">Space Developer 🚀</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtineth&label=Profile%20views&color=0e75b6&style=flat" alt="mrtineth" /> </p>
 
