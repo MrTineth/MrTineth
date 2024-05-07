@@ -11,7 +11,7 @@
 
 🔗 Proficient in **web3 & blockchain development, including smart contract development, decentralized application (dApp) development, and blockchain integration into existing systems.**
 
-🌐 Skilled in **a variety of programming languages and technologies such as JavaScript, TypeScript, React.js, Node.js, Next.js, and Laravel.**
+🌐 Skilled in **a variety of programming languages and technologies such as JavaScript, TypeScript, React.js, Node.js, Next.js, Express.js and Laravel.**
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
