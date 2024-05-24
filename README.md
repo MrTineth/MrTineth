@@ -17,12 +17,10 @@
 <p align="left">
 <a href="https://twitter.com/@tinethpathirage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tinethpathirage" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tineth pathirage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tineth pathirage" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25156432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25156432" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25156432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25156432" height="30" width="40" /></a>
 <a href="https://fb.com/tineth pathirage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tineth pathirage" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_tineth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_tineth" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discordapp.com/users/1242942024903164047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1242942024903164047" height="30" width="40" /></a>
-</p>
-
 </p>
 
 <h3>Languages and Technologies</h3>
