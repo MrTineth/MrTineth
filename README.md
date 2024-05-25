@@ -1,6 +1,7 @@
 
 ![daftpunktocat-guy](https://github.com/MrTineth/MrTineth/assets/106744622/c0e4ae65-77ce-41f7-ba57-5ae90f046637)
 
+![daftpunktocat-thomas](https://github.com/MrTineth/MrTineth/assets/106744622/21be3cee-2bf9-4167-876d-673f687bc5a0)
 
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
