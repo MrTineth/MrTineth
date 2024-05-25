@@ -1,5 +1,6 @@
 
-![dfredg5-0a60e875-646e-4d6c-bb91-73086f012808](https://github.com/MrTineth/MrTineth/assets/106744622/9be995f8-36a3-4717-9cb2-8e4a2f0c626d)
+![dh28uuh-2afd5ded-7cd7-4b17-a3ef-d3fa0ab6c364](https://github.com/MrTineth/MrTineth/assets/106744622/5cbd1b89-c111-4979-be81-8b080eabdf57)
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Tineth Pathirage</h1>
 <h3 align="center">Space Developer.</h3>
