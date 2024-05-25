@@ -1,4 +1,5 @@
-97-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7](https://github.com/MrTineth/MrTineth/assets/106744622/64a9fa80-2a92-4b18-a178-580e17090269)
+![216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7](https://github.com/MrTineth/MrTineth/assets/106744622/f4f98147-48eb-4490-9d34-96ab58fc411a)
+
 
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
