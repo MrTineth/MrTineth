@@ -1,4 +1,5 @@
-<img style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> />
+
+![octocat-1716613383535](https://github.com/MrTineth/MrTineth/assets/106744622/7bd55de1-b5ba-4d29-b6b4-3d4eaa3a2b2a)
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
 <h3 align="center">Space Developer</h3>
