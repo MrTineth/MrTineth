@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img  src="https://github.com/MrTineth/MrTineth/assets/106744622/f4f98147-48eb-4490-9d34-96ab58fc411a"  />
-</div>
-
 ![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/MrTineth/MrTineth/assets/106744622/5ac0b4ff-99b7-4b45-8385-7b7a3b4e3205)
 
 
