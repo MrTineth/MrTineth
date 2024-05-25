@@ -1,5 +1,6 @@
 
-![octocat-1716613383535](https://github.com/MrTineth/MrTineth/assets/106744622/7bd55de1-b5ba-4d29-b6b4-3d4eaa3a2b2a)
+![octocat-1716613618418](https://github.com/MrTineth/MrTineth/assets/106744622/5df0c5fe-0a27-40ac-90df-679b310ac1de)
+
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
 <h3 align="center">Space Developer</h3>
