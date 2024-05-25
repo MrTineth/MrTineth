@@ -1,10 +1,5 @@
 
-
-
-![github-readme-image (1)](https://github.com/MrTineth/MrTineth/assets/106744622/5085f18c-49fe-4659-8f57-063cda9b7259)
-
-
-
+![github](https://github.com/MrTineth/MrTineth/assets/106744622/44267adc-4a7d-4607-b0bc-a436f90ce031)
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
 <h3 align="center">Space Developer</h3>
