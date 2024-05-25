@@ -1,14 +1,9 @@
-![216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7](https://github.com/MrTineth/MrTineth/assets/106744622/f4f98147-48eb-4490-9d34-96ab58fc411a)
 
 <div align="center">
   <img  src="https://github.com/MrTineth/MrTineth/assets/106744622/f4f98147-48eb-4490-9d34-96ab58fc411a"  />
 </div>
 
-###
-
-
-
-<h1 align="center">Hi , I'm Tineth Pathirage</h1>
+<h1 align="center">Hi 👋, I'm Tineth Pathirage</h1>
 <h3 align="center">Space Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtineth&label=Profile%20views&color=0e75b6&style=flat" alt="mrtineth" /> </p>
