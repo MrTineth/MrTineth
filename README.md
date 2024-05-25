@@ -1,5 +1,7 @@
 
-<img src="https://drive.google.com/file/d/1dKo35vXmhBPqtKCVGrFNlaKjVGsFkCps/view?usp=sharing" align="center" style="width: 100%" />
+<img src="https://drive.google.com/uc?export=view&id=1dKo35vXmhBPqtKCVGrFNlaKjVGsFkCps" align="center" style="width: 100%" />
+
+
 
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
