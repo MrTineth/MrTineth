@@ -1,6 +1,6 @@
-<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" align="center" style="width: 100%" />
-</div>  
+
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
 <h3 align="center">Space Developer</h3>
