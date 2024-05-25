@@ -4,14 +4,12 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Tineth Pathirage</h1>
-<div align="center">
-  <img  src="https://github.com/MrTineth/MrTineth/assets/106744622/7614df40-4b80-46a8-acf0-9eafd2e4a6d1"  />
-</div>
 <h3 align="center">Space Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtineth&label=Profile%20views&color=0e75b6&style=flat" alt="mrtineth" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tineth pathirage" target="blank"><img src="https://img.shields.io/twitter/follow/tineth pathirage?logo=twitter&style=for-the-badge" alt="tineth pathirage" /></a> </p>
+![214644152-52f47eb3-5e31-4f47-8758-05c9468d5596](https://github.com/MrTineth/MrTineth/assets/106744622/9c8d47a9-0380-4857-bc43-510143b93bab)
 
 
 ## 🚀 About Me
