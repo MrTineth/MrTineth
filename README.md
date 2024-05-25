@@ -1,5 +1,4 @@
-
-![github](https://lh3.googleusercontent.com/drive-viewer/AKGpihb2BbingthwBvnICBF4cDFwxRKRPgUr_4J52cT92IKzLc9PTO3ECJroyn_Rn87H0X1R9Urdbl-9LXS8gTtEYrHtlxNfn9W8VB4=s1600-rw-v1)
+<a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihb2BbingthwBvnICBF4cDFwxRKRPgUr_4J52cT92IKzLc9PTO3ECJroyn_Rn87H0X1R9Urdbl-9LXS8gTtEYrHtlxNfn9W8VB4=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihb2BbingthwBvnICBF4cDFwxRKRPgUr_4J52cT92IKzLc9PTO3ECJroyn_Rn87H0X1R9Urdbl-9LXS8gTtEYrHtlxNfn9W8VB4=s1600-rw-v1" /> </a>
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
 <h3 align="center">Space Developer</h3>
