@@ -1,5 +1,6 @@
 
-![octocat-1716613618418](https://github.com/MrTineth/MrTineth/assets/106744622/5df0c5fe-0a27-40ac-90df-679b310ac1de)
+![daftpunktocat-guy](https://github.com/MrTineth/MrTineth/assets/106744622/c0e4ae65-77ce-41f7-ba57-5ae90f046637)
+
 
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
