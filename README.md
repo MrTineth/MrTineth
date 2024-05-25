@@ -1,5 +1,4 @@
-#
-[![Image description](https://lh3.googleusercontent.com/drive-viewer/AKGpihYWplbl90sIAQysA3UvRUDMLfzRwjH2ELjcMl6kNLVjc4s07KNMfD8msD6ipZDnHGW_fseBpbfk8PWxrMpPI2t-NiP0Kza3VpA=s1600-rw-v1)](https://lh3.googleusercontent.com/drive-viewer/AKGpihYWplbl90sIAQysA3UvRUDMLfzRwjH2ELjcMl6kNLVjc4s07KNMfD8msD6ipZDnHGW_fseBpbfk8PWxrMpPI2t-NiP0Kza3VpA=s1600-rw-v1?source=screenshot.guru)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/kawGVle7TIuTmt6p6d" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-kawGVle7TIuTmt6p6d">via GIPHY</a></p>
 
 
 
