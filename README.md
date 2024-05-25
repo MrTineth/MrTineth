@@ -2,6 +2,10 @@
 
 <img src="https://github.com/MrTineth/MrTineth/assets/106744622/f4f98147-48eb-4490-9d34-96ab58fc411a" align="center" style="width: 100%;" />
 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+        <img src="https://github.com/MrTineth/MrTineth/assets/106744622/f4f98147-48eb-4490-9d34-96ab58fc411a" alt="Centered Image" style="max-width: 100%;" />
+    </div>
+
 
 
 <h1 align="center">Hi , I'm Tineth Pathirage</h1>
