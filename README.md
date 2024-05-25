@@ -3,7 +3,7 @@
   <img  src="https://github.com/MrTineth/MrTineth/assets/106744622/f4f98147-48eb-4490-9d34-96ab58fc411a"  />
 </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Tineth Pathirage</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tineth Pathirage</h1>
 <h3 align="center">Space Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtineth&label=Profile%20views&color=0e75b6&style=flat" alt="mrtineth" /> </p>
