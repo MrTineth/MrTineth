@@ -1,6 +1,6 @@
 
 ![daftpunktocat-guy](https://github.com/MrTineth/MrTineth/assets/106744622/c0e4ae65-77ce-41f7-ba57-5ae90f046637)
-<img src="https://github.com/MrTineth/MrTineth/assets/106744622/c0e4ae65-77ce-41f7-ba57-5ae90f046637" align="center" style="width: 80%;" />
+<img align="center" src="https://github.com/MrTineth/MrTineth/assets/106744622/c0e4ae65-77ce-41f7-ba57-5ae90f046637" align="center" style="width: 80%;" />
 
 
 
