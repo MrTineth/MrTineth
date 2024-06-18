@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/tineth pathirage" target="blank"><img src="https://img.shields.io/twitter/follow/tineth pathirage?logo=twitter&style=for-the-badge" alt="tineth pathirage" /></a> </p>
 
 ## 🚀 About Me
-💻 I am Tineth Pathirage from Colombo, Sri Lanka. I am a full stack developer with expertise in MERN Stack and a robust proficiency in cutting-edge Web3 and Blockchain development technologies.<br><br>🛠️ Skilled in a variety of programming languages and technologies such as  TypeScript, JavaScript, React.js, Node.js, Next.js, Express.js, Ethers.js & Laravel.
+🙎🏻‍♂️ I am Tineth Pathirage from Colombo, Sri Lanka. I am a full stack developer with expertise in MERN Stack and a robust proficiency in cutting-edge Web3 and Blockchain development technologies.
 
 
 ## 🌐 Socials
