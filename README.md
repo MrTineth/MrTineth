@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/tineth pathirage" target="blank"><img src="https://img.shields.io/twitter/follow/tineth pathirage?logo=twitter&style=for-the-badge" alt="tineth pathirage" /></a> </p>
 
 ## 🚀 About Me
-🙎🏻‍♂️ I am Tineth Pathirage from Colombo, Sri Lanka. I am a software engineer with expertise in full stack development using the MERN Stack and I have a robust proficiency in cutting-edge Web3 and blockchain development technologies.
+I'm Tineth Pathirage from Colombo, Sri Lanka. I am a software engineer with expertise in full stack development using the MERN Stack and I have a robust proficiency in cutting-edge Web3 and blockchain development technologies.
 
 
 ## 🌐 Socials
