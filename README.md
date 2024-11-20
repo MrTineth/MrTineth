@@ -2,14 +2,14 @@
 ![dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7](https://github.com/MrTineth/MrTineth/assets/106744622/83da358b-d560-4e60-88f3-409b9da86669)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Tineth Pathirage</h1>
-<h3 align="center">Full stack thinker with a love for clean code ❤️</h3>
+<h3 align="center">Full stack developer with a love for clean code ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtineth&label=Profile%20views&color=0e75b6&style=flat" alt="mrtineth" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tineth pathirage" target="blank"><img src="https://img.shields.io/twitter/follow/tineth pathirage?logo=twitter&style=for-the-badge" alt="tineth pathirage" /></a> </p>
 
 ## 🚀 About Me
-🙎🏻‍♂️ I am Tineth Pathirage from Colombo, Sri Lanka. I am a software engineer with expertise in full stack development using the MERN Stack, and I have a robust proficiency in cutting-edge Web3 and blockchain development technologies.
+🙎🏻‍♂️ I am Tineth Pathirage from Colombo, Sri Lanka. I am a software engineer with expertise in full stack development using the MERN Stack and I have a robust proficiency in cutting-edge Web3 and blockchain development technologies.
 
 
 ## 🌐 Socials
